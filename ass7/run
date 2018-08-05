@@ -1,0 +1,2 @@
+hdfs dfs -rm -r /user/cs540/anderrob/output
+
